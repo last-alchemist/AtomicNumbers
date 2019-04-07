@@ -11,5 +11,6 @@ potash alum
 Caprolactum
 Ammonium Cynide
 Ready to merge caustic soda to sulphonic acid
+now it will
 
 It's done !
