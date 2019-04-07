@@ -7,5 +7,6 @@ morphine
 Heroine
 sulphonic acid
 caustic soda
+potash alum
 
 It's done !
