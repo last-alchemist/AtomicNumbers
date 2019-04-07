@@ -8,5 +8,7 @@ Heroine
 sulphonic acid
 caustic soda
 potash alum
+Caprolactum
+Ammonium Cynide
 
 It's done !
